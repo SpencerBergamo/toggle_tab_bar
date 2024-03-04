@@ -1,6 +1,6 @@
 # toggle_tab_bar
 
-A new Flutter project.
+Toggle Tab Bar demostration -- Feel Free to contribute!
 
 ## Getting Started
 
